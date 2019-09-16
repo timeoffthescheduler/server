@@ -10,7 +10,7 @@
   <a target="_blank" href='https://medium.com/@zafarsaleem/how-i-built-my-own-open-source-project-a876c6d6b720'>Medium</a>
 </p>
 
-**Note**: To use this project with built in user interface then use its client side implementation which could be found [here](https://github.com/zafar-saleem/timeoff-app)
+**Note**: To use this project with built in user interface then use its client side implementation which could be found [here](https://github.com/timeoffthescheduler/app)
 
 
 TimeOff is an application that allows companies and organizations to allow their employees to set vacations before they take their time off. TimeOff is an easy to use vacation setter with just few clicks.
@@ -34,7 +34,7 @@ The technology stack used is below
 * Passport
 
 ## Client side of this project
-The client side of this project could be found [here](https://github.com/zafar-saleem/timeoff-app)
+The client side of this project could be found [here](https://github.com/timeoffthescheduler/app)
 
 ## Usage
 To run this project locally, use `nodemon` package. Run `nodemon index.js` in timeoff-server folder which will run its server. Then use the client side and run its server using `npm start` command and visit the url mentioned in terminal of the client side.
