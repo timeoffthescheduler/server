@@ -61,4 +61,4 @@ To create an admin user, go to `http://localhost:PORTNUMBER/register` and enter 
 In order to contribute, please open issues and make pull requests.
 
 # Contact
-timeoff.sendmail@gmail.com
+zsaleem@protonmail.com
