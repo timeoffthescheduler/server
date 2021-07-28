@@ -11,6 +11,8 @@
   <a target="_blank" href='https://medium.com/@zafarsaleem/how-i-built-my-own-open-source-project-a876c6d6b720'>Medium</a>
 </p>
 
+### Note: This project is no longer maintained on this repository. It is moved to private repository.
+
 **Note**: To use this project with built in user interface then use its client side implementation which could be found [here](https://github.com/timeoffthescheduler/app)
 
 
